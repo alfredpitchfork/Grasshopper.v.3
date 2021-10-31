@@ -1,0 +1,21 @@
+//Images
+$img1: url('/dist/img/MeatHaven/food5.jpg');
+$img2: url('/dist/img/MeatHaven/raw3.jpg');
+$img3: url('/dist/img/MeatHaven/raw4.jpg');
+$img4: url('/dist/img/MeatHaven/food1.jpg');
+$img5: url('/dist/img/MeatHaven/food6.jpg');
+$imgToGo: url('/dist/img/MeatHaven/food2.jpg');
+$imgPlace: url('/dist/img/MeatHaven/place2.jpg');
+$imgPlace2: url('/dist/img/MeatHaven/place4.jpg');
+
+//Fonts
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=MuseoModerno:wght@500&family=Oxygen:wght@300&display=swap');
+
+$HeaderFont: 'MuseoModerno', cursive;
+$SubtextFont: 'Oxygen', sans-serif;
+$ParagraphFont: 'Montserrat', sans-serif;
+
+//Color Palette
+$primaryColor: #b8860b;
+$secondaryColor: #daa520;
+$primaryColorFaded: rgb(160, 117, 10);
